@@ -5,9 +5,9 @@ import App from './App'
 import router from './router'
 import Apple from './components/apple'
 import Banana from './components/banana'
-import Vuex from 'vuex'
+
 Vue.config.productionTip = false
-Vue.use(Vuex)
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
