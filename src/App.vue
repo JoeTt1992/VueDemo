@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <p>123445</p>
     <router-view/>
     <apple></apple>
     <banana></banana>
